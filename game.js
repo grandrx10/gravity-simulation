@@ -1,6 +1,4 @@
-
-
-var entities = [];
+let entities = [];
 var controller = new Controller();
 var buttons = [];
 var game = {state: "inMenu",
